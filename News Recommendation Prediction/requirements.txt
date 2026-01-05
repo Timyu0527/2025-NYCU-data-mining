@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-learn
+keras
+sentence-transformers
+tensorflow[and-cuda]
+tf-keras
