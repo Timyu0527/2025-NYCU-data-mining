@@ -1,0 +1,8 @@
+*.csv
+*.docx
+Dataset/
+dataset/
+__pycache__/
+.python-version
+*.zip
+*.png
